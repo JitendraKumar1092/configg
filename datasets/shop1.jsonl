@@ -1,0 +1,607 @@
+{"input": "Leather Belt", "output": "Stylish leather belt to add a touch of sophistication to any outfit. Occasion: Casual, Everyday Wear."}
+{"input": "Checked Button-Up Shirt", "output": "Versatile checked button-up shirt for a smart-casual look. Occasion: Casual, Everyday Wear."}
+{"input": "Tailored Trousers", "output": "Elegant tailored trousers for a polished and professional look. Occasion: Formal, Office Wear."}
+{"input": "Faux Leather Jacket", "output": "Trendy faux leather jacket for a cool and edgy look. Occasion: Casual, Everyday Wear."}
+{"input": "Casual Espadrilles", "output": "Comfortable and stylish espadrilles for a laid-back summer look. Occasion: Casual, Everyday Wear."}
+{"input": "Bohemian Print Blouse", "output": "Bohemian-style printed blouse for a relaxed and feminine look. Occasion: Casual, Everyday Wear."}
+{"input": "Printed Maxi Dress", "output": "Bohemian-style printed maxi dress for a free-spirited and feminine look. Occasion: Casual, Beach Party."}
+{"input": "Straw Tote Bag", "output": "Stylish and spacious straw tote bag for a day at the beach. Occasion: Casual, Beach."}
+{"input": "Knit Cardigan", "output": "Soft and cozy knit cardigan for a comfortable and stylish look. Occasion: Casual, Everyday Wear."}
+{"input": "Linen Wide-Leg Pants", "output": "Lightweight and breathable linen wide-leg pants for a relaxed and chic look. Occasion: Casual, Everyday Wear."}
+{"input": "Printed Cotton Dress", "output": "Pretty printed cotton dress for a fresh and feminine look. Occasion: Casual, Everyday Wear."}
+{"input": "Canvas Backpack", "output": "Durable canvas backpack for all your outdoor adventures. Occasion: Casual, Outdoor Activities."}
+{"input": "Casual Striped T-shirt", "output": "Comfortable striped t-shirt for a casual and laid-back look. Occasion: Casual, Everyday Wear."}
+{"input": "Embroidered Boho Blouse", "output": "Bohemian-style embroidered blouse for a relaxed and feminine look. Occasion: Casual, Everyday Wear."}
+{"input": "Pleated Midi Skirt", "output": "Chic pleated midi skirt for a timeless and sophisticated look. Occasion: Party, Casual."}
+{"input": "Retro Cat-Eye Sunglasses", "output": "Retro-inspired cat-eye sunglasses for a glamorous and chic look. Occasion: Casual, Everyday Wear."}
+{"input": "Casual Striped Sweater", "output": "Soft and comfortable striped sweater for a cozy and casual look. Occasion: Casual, Everyday Wear."}
+{"input": "Patterned Shift Dress", "output": "Stylish patterned shift dress for a versatile and feminine look. Occasion: Casual, Party."}
+{"input": "Leather Loafers", "output": "Classic leather loafers for a timeless and sophisticated look. Occasion: Casual, Everyday Wear."}
+{"input": "Denim Mini Skirt", "output": "Trendy denism mini skirt for a cool and casual look. Occasion: Casual, Everyday Wear."}
+{"input": "Cotton Tank Top", "output": "Comfortable cotton tank top for a casual and relaxed look. Occasion: Casual, Everyday Wear."}
+{"input": "Leather Biker Jacket", "output": "Edgy leather biker jacket for a cool and rebellious look. Occasion: Casual, Everyday Wear."}
+{"input": "Printed Kimono", "output": "Bohemian-style printed kimono for a relaxed and stylish look. Occasion: Casual, Beach."}
+{"input": "Linen Shorts", "output": "Lightweight and breathable linen shorts for a relaxed and casual look. Occasion: Casual, Everyday Wear."}
+{"input": "Classic Fedora Hat", "output": "Timeless fedora hat to add a touch of sophistication to any outfit. Occasion: Casual, Everyday Wear."}
+{"input": "Printed Button-Up Shirt", "output": "Versatile printed button-up shirt for a smart-casual look. Occasion: Casual, Everyday Wear."}
+{"input": "Tailored Trench Coat", "output": "Elegant tailored trench coat for a polished and sophisticated look. Occasion: Formal, Office Wear."}
+{"input": "Embroidered Lace Cocktail Dress", "output": "A stunning cocktail dress featuring intricate lace embroidery, perfect for special occasions. Occasion: Party, Formal Events."}
+{"input": "Ripped Distressed Denim Shorts", "output": "Trendy ripped denim shorts for a casual and edgy look. Occasion: Casual, Summer Wear."}
+{"input": "Graphic Print Hoodie", "output": "A stylish hoodie featuring a cool graphic print, perfect for urban streetwear. Occasion: Casual, Everyday Wear."}
+{"input": "Floral Print Wrap Dress", "output": "A charming wrap dress with a vibrant floral print, perfect for a feminine look. Occasion: Casual, Day Outings."}
+{"input": "Classic Oxford Shirt", "output": "A timeless oxford shirt crafted from high-quality cotton for a sophisticated look. Occasion: Formal, Business Casual."}
+{"input": "Vintage Round Sunglasses", "output": "Stylish round sunglasses with a vintage appeal, perfect for adding a retro touch to your look. Occasion: Casual, Outdoor Events."}
+{"input": "Casual Linen Shirt", "output": "A lightweight and breathable linen shirt for a relaxed yet stylish casual look. Occasion: Casual, Summer Wear."}
+{"input": "Denim Overall Dress", "output": "A trendy denim overall dress with a playful and casual vibe, perfect for everyday wear. Occasion: Casual, Day Outings."}
+{"input": "Striped Linen Shorts", "output": "Lightweight linen shorts with classic stripes, perfect for a beach getaway. Occasion: Casual, Beaches."}
+{"input": "Cotton Polo Shirt", "output": "A classic cotton polo shirt with a sporty vibe, perfect for casual outings. Occasion: Casual, Sportswear."}
+{"input": "Cargo Jogger Pants", "output": "Comfortable cargo jogger pants with a relaxed fit, perfect for urban exploration. Occasion: Casual, Outdoor Activities."}
+{"input": "Bohemian Maxi Skirt", "output": "A flowy and vibrant bohemian maxi skirt for a free-spirited look. Occasion: Casual, Festivals."}
+{"input": "Checked Flannel Shirt", "output": "A cozy and stylish flannel shirt with classic checks, perfect for outdoor adventures. Occasion: Casual, Outdoor Activities."}
+{"input": "Vintage Band T-shirt", "output": "A vintage-style band t-shirt featuring a retro design, perfect for music enthusiasts. Occasions: Casual, Concerts."}
+{"input": "Bohemian Print Kimono Jacket", "output": "A bohemian-inspired kimono jacket featuring eclectic prints and a relaxed silhouette. Occasions: Casual, Festivals."}
+{"input": "Striped Maxi Dress", "output": "A nautical-inspired maxi dress with classic stripes, perfect for a breezy seaside look. Occasions: Casual, Beaches."}
+{"input": "Utility Cargo Pants", "output": "Durable utility cargo pants with multiple pockets, perfect for outdoor adventures. Occasions: Casual, Outdoor Activities."}
+{"input": "Retro Round Sunglasses", "output": "Classic round sunglasses with a retro-inspired design, perfect for a vintage look. Occasions: Casual, Outdoor Events."}
+{"input": "Distressed Denim Shorts", "output": "Trendy distressed denim shorts for a casual and edgy look. Occasions: Casual, Summer Wear."}
+{"input": "Ribbed Knit Crop Top", "output": "A trendy ribbed knit crop top for a chic and casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Striped Maxi Skirt", "output": "A nautical-inspired maxi skirt with classic stripes, perfect for a breezy seaside look. Occasions: Casual, Beaches."}
+{"input": "Vintage Band T-shirt", "output": "A vintage-style band t-shirt featuring a retro design, perfect for music enthusiasts. Occasions: Casual, Concerts."}
+{"input": "Bohemian Print Kimono Jacket", "output": "A bohemian-inspired kimono jacket featuring eclectic prints and a relaxed silhouette. Occasions: Casual, Festivals."}
+{"input": "Striped Maxi Dress", "output": "A nautical-inspired maxi dress with classic stripes, perfect for a breezy seaside look. Occasions: Casual, Beaches."}
+{"input": "Utility Cargo Pants", "output": "Durable utility cargo pants with multiple pockets, perfect for outdoor adventures. Occasions: Casual, Outdoor Activities."}
+{"input": "Retro Round Sunglasses", "output": "Classic round sunglasses with a retro-inspired design, perfect for a vintage look. Occasions: Casual, Outdoor Events."}
+{"input": "Distressed Denim Shorts", "output": "Trendy distressed denim shorts for a casual and edgy look. Occasions: Casual, Summer Wear."}
+{"input": "Ribbed Knit Crop Top", "output": "A trendy ribbed knit crop top for a chic and casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Striped Maxi Skirt", "output": "A nautical-inspired maxi skirt with classic stripes, perfect for a breezy seaside look. Occasions: Casual, Beaches."}
+{"input": "Retro Print Midi Dress", "output": "Retro-inspired midi dress with a vibrant print, perfect for a fun day out. Ideal for Casual and Day Outings."}
+{"input": "Tropical Print Jumpsuit", "output": "Stylish jumpsuit featuring a vibrant tropical print, perfect for summer parties. Ideal for Party and Night Out."}
+{"input": "Boho Fringe Sandals", "output": "Bohemian fringe sandals, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Floral Midi Dress", "output": "Chic midi dress with a vintage-inspired floral print, perfect for daytime events. Ideal for Casual and Day Outings."}
+{"input": "Retro Print Crop Top", "output": "Retro-inspired crop top with a vibrant print, perfect for summer. Ideal for Casual and Outdoor Events."}
+{"input": "Tropical Print Romper", "output": "Trendy romper featuring a vibrant tropical print, perfect for summer adventures. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Earrings", "output": "Bohemian fringe earrings, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Crop Top", "output": "Elegant lace crop top with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Maxi Skirt", "output": "Retro-inspired maxi skirt with a vibrant print, perfect for making a statement. Ideal for Party and Night Out."}
+{"input": "Tropical Print Halter Dress", "output": "Stylish halter dress featuring a vibrant tropical print, perfect for beach days. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Necklace", "output": "Bohemian fringe necklace, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Romper", "output": "Elegant lace romper with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Bandeau Bikini", "output": "Retro-inspired bandeau bikini with a vibrant print, perfect for beach days. Ideal for Beachwear and Pool Party."}
+{"input": "Tropical Print Kimono", "output": "Trendy kimono featuring a vibrant tropical print, perfect for layering over any outfit. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Bracelet", "output": "Bohemian fringe bracelet, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Maxi Dress", "output": "Elegant lace maxi dress with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Leather Belt", "output": "Stylish leather belt to add a touch of sophistication to any outfit. Occasions: Casual, Everyday Wear."}
+{"input": "Checked Button-Up Shirt", "output": "Versatile checked button-up shirt for a smart-casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Tailored Trousers", "output": "Elegant tailored trousers for a polished and professional look. Occasions: Formal, Office Wear."}
+{"input": "Faux Leather Jacket", "output": "Trendy faux leather jacket for a cool and edgy look. Occasions: Casual, Everyday Wear."}
+{"input": "Casual Espadrilles", "output": "Comfortable and stylish espadrilles for a laid-back summer look. Occasions: Casual, Everyday Wear."}
+{"input": "Bohemian Print Blouse", "output": "Bohemian-style printed blouse for a relaxed and feminine look. Occasions: Casual, Everyday Wear."}
+{"input": "Printed Maxi Dress", "output": "Bohemian-style printed maxi dress for a free-spirited and feminine look. Occasions: Casual, Beach Party."}
+{"input": "Straw Tote Bag", "output": "Stylish and spacious straw tote bag for a day at the beach. Occasions: Casual, Beach."}
+{"input": "Knit Cardigan", "output": "Soft and cozy knit cardigan for a comfortable and stylish look. Occasions: Casual, Everyday Wear."}
+{"input": "Linen Wide-Leg Pants", "output": "Lightweight and breathable linen wide-leg pants for a relaxed and chic look. Occasions: Casual, Everyday Wear."}
+{"input": "Printed Cotton Dress", "output": "Pretty printed cotton dress for a fresh and feminine look. Occasions: Casual, Everyday Wear."}
+{"input": "Canvas Backpack", "output": "Durable canvas backpack for all your outdoor adventures. Occasions: Casual, Outdoor Activities."}
+{"input": "Casual Striped T-shirt", "output": "Comfortable striped t-shirt for a casual and laid-back look. Occasions: Casual, Everyday Wear."}
+{"input": "Embroidered Boho Blouse", "output": "Bohemian-style embroidered blouse for a relaxed and feminine look. Occasions: Casual, Everyday Wear."}
+{"input": "Pleated Midi Skirt", "output": "Chic pleated midi skirt for a timeless and sophisticated look. Occasions: Party, Casual."}
+{"input": "Retro Cat-Eye Sunglasses", "output": "Retro-inspired cat-eye sunglasses for a glamorous and chic look. Occasions: Casual, Everyday Wear."}
+{"input": "Casual Striped Sweater", "output": "Soft and comfortable striped sweater for a cozy and casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Patterned Shift Dress", "output": "Stylish patterned shift dress for a versatile and feminine look. Occasions: Casual, Party."}
+{"input": "Leather Loafers", "output": "Classic leather loafers for a timeless and sophisticated look. Occasions: Casual, Everyday Wear."}
+{"input": "Denim Mini Skirt", "output": "Trendy denim mini skirt for a cool and casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Cotton Tank Top", "output": "Comfortable cotton tank top for a casual and relaxed look. Occasions: Casual, Everyday Wear."}
+{"input": "Leather Biker Jacket", "output": "Edgy leather biker jacket for a cool and rebellious look. Occasions: Casual, Everyday Wear."}
+{"input": "Printed Kimono", "output": "Bohemian-style printed kimono for a relaxed and stylish look. Occasions: Casual, Beach."}
+{"input": "Linen Shorts", "output": "Lightweight and breathable linen shorts for a relaxed and casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Classic Fedora Hat", "output": "Timeless fedora hat to add a touch of sophistication to any outfit. Occasions: Casual, Everyday Wear."}
+{"input": "Printed Button-Up Shirt", "output": "Versatile printed button-up shirt for a smart-casual look. Occasions: Casual, Everyday Wear."}
+{"input": "Tailored Trench Coat", "output": "Elegant tailored trench coat for a polished and sophisticated look. Occasions: Formal, Office Wear."}
+{"input": "Embroidered Lace Cocktail Dress", "output": "A stunning cocktail dress featuring intricate lace embroidery, perfect for special occasions. Occasions: Party, Formal Events."}
+{"input": "Ripped Distressed Denim Shorts", "output": "Trendy ripped denim shorts for a casual and edgy look. Occasions: Casual, Summer Wear."}
+{"input": "Graphic Print Hoodie", "output": "A stylish hoodie featuring a cool graphic print, perfect for urban streetwear. Occasions: Casual, Everyday Wear."}
+{"input": "Floral Print Wrap Dress", "output": "A charming wrap dress with a vibrant floral print, perfect for a feminine look. Occasions: Casual, Day Outings."}
+{"input": "Classic Oxford Shirt", "output": "A timeless oxford shirt crafted from high-quality cotton for a sophisticated look. Occasions: Formal, Business Casual."}
+{"input": "Vintage Round Sunglasses", "output": "Stylish round sunglasses with a vintage appeal, perfect for adding a retro touch to your look. Occasions: Casual, Outdoor Events."}
+{"input": "Casual Linen Shirt", "output": "A lightweight and breathable linen shirt for a relaxed yet stylish casual look. Occasions: Casual, Summer Wear."}
+{"input": "Denim Overall Dress", "output": "A trendy denim overall dress with a playful and casual vibe, perfect for everyday wear. Occasions: Casual, Day Outings."}
+{"input": "Striped Linen Shorts", "output": "Lightweight linen shorts with classic stripes, perfect for a beach getaway. Occasions: Casual, Beaches."}
+{"input": "Cotton Polo Shirt", "output": "A classic cotton polo shirt with a sporty vibe, perfect for casual outings. Occasions: Casual, Sportswear."}
+{"input": "Cargo Jogger Pants", "output": "Comfortable cargo jogger pants with a relaxed fit, perfect for urban exploration. Occasions: Casual, Outdoor Activities."}
+{"input": "Bohemian Maxi Skirt", "output": "A flowy and vibrant bohemian maxi skirt for a free-spirited look. Occasions: Casual, Festivals."}
+{"input": "Checked Flannel Shirt", "output": "A cozy and stylish flannel shirt with classic checks, perfect for outdoor adventures. Occasions: Casual, Outdoor Activities."}
+{"input": "Vintage Lace Dress", "output": "Vintage-inspired lace dress, perfect for a romantic evening. Ideal for Party and Date Night."}
+{"input": "Boho Fringe Vest", "output": "Boho-chic fringe vest, perfect for layering over any outfit. Ideal for Casual and Festivals."}
+{"input": "Graphic Tee", "output": "Stylish graphic tee featuring a bold design, perfect for casual wear. Ideal for Casual and Everyday Wear."}
+{"input": "Tropical Print Maxi Dress", "output": "Vibrant tropical print maxi dress, perfect for beach vacations. Ideal for Casual and Beaches."}
+{"input": "Retro Print Crop Top", "output": "Retro-inspired crop top with a colorful print, perfect for summer. Ideal for Casual and Outdoor Events."}
+{"input": "Boho Fringe Shawl", "output": "Bohemian fringe shawl, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Floral Print Midi Dress", "output": "Chic midi dress with a floral print, perfect for daytime events. Ideal for Casual and Day Outings."}
+{"input": "Vintage Leather Boots", "output": "Stylish leather boots with a vintage-inspired design, perfect for everyday wear. Ideal for Casual and Outdoor Events."}
+{"input": "Boho Print Crop Top", "output": "Boho-chic crop top with colorful prints, perfect for summer festivals. Ideal for Casual and Festivals."}
+{"input": "Retro Print Midi Skirt", "output": "Retro-inspired midi skirt with a vibrant print, perfect for a fun day out. Ideal for Casual and Day Outings."}
+{"input": "Tropical Print Crop Top", "output": "Trendy crop top featuring a vibrant tropical print, perfect for summer. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Poncho", "output": "Bohemian fringe poncho, perfect for layering over any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Floral Dress", "output": "Charming floral dress with a vintage-inspired design, perfect for garden parties. Ideal for Party and Outdoor Events."}
+{"input": "Retro Print Bandeau Top", "output": "Fun bandeau top with a retro print, perfect for beach days. Ideal for Casual and Beaches."}
+{"input": "Boho Print Kimono", "output": "Boho-chic kimono with colorful prints, perfect for layering over any outfit. Ideal for Casual and Festivals."}
+{"input": "Tropical Print Romper", "output": "Trendy romper featuring a vibrant tropical print, perfect for summer adventures. Ideal for Casual and Beaches."}
+{"input": "Vintage Lace Blouse", "output": "Elegant lace blouse with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Boho Fringe Skirt", "output": "Boho-chic fringe skirt with colorful embellishments, perfect for summer festivals. Ideal for Casual and Festivals."}
+{"input": "Retro Print Jumpsuit", "output": "Retro-inspired jumpsuit with a vibrant print, perfect for making a statement. Ideal for Party and Night Out."}
+{"input": "Tropical Print Bikini", "output": "Stylish bikini featuring a vibrant tropical print, perfect for beach days. Ideal for Beachwear and Pool Party."}
+{"input": "Boho Fringe Headband", "output": "Bohemian fringe headband, perfect for adding flair to any hairstyle. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Skirt", "output": "Elegant lace skirt with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Halter Dress", "output": "Retro-inspired halter dress with a vibrant print, perfect for summer parties. Ideal for Party and Night Out."}
+{"input": "Tropical Print Midi Skirt", "output": "Trendy midi skirt featuring a vibrant tropical print, perfect for summer outings. Ideal for Casual and Day Outings."}
+{"input": "Boho Fringe Tote Bag", "output": "Bohemian fringe tote bag, perfect for carrying your essentials in style. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Kimono", "output": "Elegant lace kimono with a vintage-inspired design, perfect for layering over any outfit. Ideal for Party and Date Night."}
+{"input": "Retro Print Maxi Dress", "output": "Retro-inspired maxi dress with a vibrant print, perfect for making a statement. Ideal for Party and Night Out."}
+{"input": "Tropical Print Crop Top", "output": "Trendy crop top featuring a vibrant tropical print, perfect for summer. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Backpack", "output": "Bohemian fringe backpack, perfect for carrying your essentials in style. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Dress", "output": "Elegant lace dress with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Midi Dress", "output": "Retro-inspired midi dress with a vibrant print, perfect for a fun day out. Ideal for Casual and Day Outings."}
+{"input": "Tropical Print Jumpsuit", "output": "Stylish jumpsuit featuring a vibrant tropical print, perfect for summer parties. Ideal for Party and Night Out."}
+{"input": "Boho Fringe Sandals", "output": "Bohemian fringe sandals, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Floral Midi Dress", "output": "Chic midi dress with a vintage-inspired floral print, perfect for daytime events. Ideal for Casual and Day Outings."}
+{"input": "Retro Print Crop Top", "output": "Retro-inspired crop top with a vibrant print, perfect for summer. Ideal for Casual and Outdoor Events."}
+{"input": "Tropical Print Romper", "output": "Trendy romper featuring a vibrant tropical print, perfect for summer adventures. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Earrings", "output": "Bohemian fringe earrings, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Crop Top", "output": "Elegant lace crop top with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Maxi Skirt", "output": "Retro-inspired maxi skirt with a vibrant print, perfect for making a statement. Ideal for Party and Night Out."}
+{"input": "Tropical Print Halter Dress", "output": "Stylish halter dress featuring a vibrant tropical print, perfect for beach days. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Necklace", "output": "Bohemian fringe necklace, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Romper", "output": "Elegant lace romper with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Bandeau Bikini", "output": "Retro-inspired bandeau bikini with a vibrant print, perfect for beach days. Ideal for Beachwear and Pool Party."}
+{"input": "Tropical Print Kimono", "output": "Trendy kimono featuring a vibrant tropical print, perfect for layering over any outfit. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Bracelet", "output": "Bohemian fringe bracelet, perfect for adding flair to any outfit. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Maxi Dress", "output": "Elegant lace maxi dress with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Retro Print Crop Top", "output": "Retro-inspired crop top with a vibrant print, perfect for summer. Ideal for Casual and Outdoor Events."}
+{"input": "Tropical Print Midi Skirt", "output": "Trendy midi skirt featuring a vibrant tropical print, perfect for summer outings. Ideal for Casual and Day Outings."}
+{"input": "Boho Fringe Tote Bag", "output": "Bohemian fringe tote bag, perfect for carrying your essentials in style. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Kimono", "output": "Elegant lace kimono with a vintage-inspired design, perfect for layering over any outfit. Ideal for Party and Date Night."}
+{"input": "Retro Print Maxi Dress", "output": "Retro-inspired maxi dress with a vibrant print, perfect for making a statement. Ideal for Party and Night Out."}
+{"input": "Tropical Print Crop Top", "output": "Trendy crop top featuring a vibrant tropical print, perfect for summer. Ideal for Casual and Beaches."}
+{"input": "Boho Fringe Backpack", "output": "Bohemian fringe backpack, perfect for carrying your essentials in style. Ideal for Casual and Festivals."}
+{"input": "Vintage Lace Dress", "output": "Elegant lace dress with a vintage-inspired design, perfect for special occasions. Ideal for Party and Date Night."}
+{"input": "Graphic Print T-shirt", "output": "Make a statement with this bold graphic print t-shirt. Occasions: Casual, Party."}
+{"input": "Denim Shorts", "output": "Stay cool and stylish in these classic denim shorts. Occasions: Casual, Beaches."}
+{"input": "Casual Sneakers", "output": "Add a touch of urban flair to your outfit with these casual white sneakers. Occasions: Casual, Everyday Wear."}
+{"input": "Bohemian Fringe Bag", "output": "Complete your boho look with this stylish fringe bag in vibrant turquoise. Occasions: Casual, Festivals."}
+{"input": "Printed Scarf", "output": "Add a pop of color and style to any outfit with this printed scarf. Occasions: Casual, Everyday Wear."}
+{"input": "Formal Oxford Shoes", "output": "Complete your formal attire with these classic black Oxford shoes. Occasions: Formal, Office Wear."}
+{"input": "Quilted Crossbody Bag", "output": "Stay chic and organized with this quilted crossbody bag in soft blush pink. Occasions: Casual, Everyday Wear."}
+{"input": "Aviator Sunglasses", "output": "Exude timeless style with these classic aviator sunglasses in gold. Occasions: Casual, Outdoor Events."}
+{"input": "Printed Midi Skirt", "output": "Make a statement in this chic printed midi skirt in navy blue. Occasions: Casual, Party."}
+{"input": "Cropped Hoodie", "output": "Stay cozy and stylish in this cropped hoodie perfect for casual outings. Occasions: Casual, Everyday Wear."}
+{"input": "Leather Biker Jacket", "completion": "Add an edgy vibe to your outfit with this classic leather biker jacket. Occasions: Casual, Everyday Wear."}
+{"input": "Chunky Knit Sweater", "output": "Stay warm and stylish in this cozy chunky knit sweater in cream. Occasions: Casual, Everyday Wear."}
+{"input": "Boho Fringe Sandals", "output": "Complete your boho look with these stylish fringe sandals in tan. Occasions: Casual, Festivals."}
+{"input": "Classic Wayfarer Sunglasses", "output": "Achieve a timeless look with these classic wayfarer sunglasses in black. Occasions: Casual, Outdoor Events."}
+{"input": "Embroidered Maxi Skirt", "output": "Make a statement with this elegant embroidered maxi skirt in white. Occasions: Casual, Party."}
+{"input": "Striped Off-Shoulder Top", "output": "Stay on-trend with this chic off-shoulder top featuring stylish stripes. Occasions: Casual, Everyday Wear."}
+{"input": "Classic Leather Belt", "output": "Complete your look with this classic leather belt in rich brown. Occasions: Casual, Everyday Wear."}
+{"input": "Floral Print Sundress", "output": "Stay cool and stylish in this vibrant floral print sundress perfect for summer. Occasions: Casual, Beaches."}
+{"input": "Retro Cat Eye Sunglasses", "output": "Add a touch of retro glamour with these chic cat eye sunglasses in red. Occasions: Casual, Outdoor Events."}
+{"input": "Striped Linen Shirt", "output": "Stay cool and comfortable in this breezy striped linen shirt. Occasions: Casual, Beaches."}
+{"input": "Casual Linen Pants", "output": "Stay stylish and comfortable in these casual linen pants perfect for summer. Occasions: Casual, Everyday Wear."}
+{"input": "Printed Maxi Skirt", "output": "Make a statement in this vibrant printed maxi skirt with bohemian flair. Occasions: Casual, Beaches."}
+{"input": "Classic Fedora Hat", "output": "Complete your look with this classic fedora hat in sleek black. Ideal for Casual and Outdoor Events."}
+{"input": "Vintage Denim Jacket", "output": "Add a touch of vintage cool to your wardrobe with this classic denim jacket. Ideal for Casual and Everyday Wear."}
+{"input": "Boho Fringe Earrings", "output": "Add a touch of bohemian flair to your look with these chic fringe earrings. Ideal for Casual and Festivals."}
+{"input": "Vintage Leather Satchel", "output": "Channel retro vibes with this vintage leather satchel in classic brown. Ideal for Casual and Everyday Wear."}
+{"input": "Graphic Print Sweatshirt", "output": "Make a statement with this bold graphic print sweatshirt in black and white. Ideal for Casual and Everyday Wear."}
+{"input": "Denim Overall Dress", "output": "Stay on-trend with this cute denim overall dress perfect for casual outings. Ideal for Casual and Everyday Wear."}
+{"input": "Bohemian Beaded Bracelet Set", "output": "Add a bohemian touch to your look with this colorful beaded bracelet set. Ideal for Casual and Festivals."}
+{"input": "Vintage Floral Scarf", "output": "Add a vintage flair to any outfit with this elegant floral scarf in pink. Ideal for Casual and Everyday Wear."}
+{"input": "Casual Canvas Shoes", "output": "Stay comfortable and stylish in these casual canvas shoes in navy blue. Ideal for Casual and Everyday Wear."}
+{"input": "Boho Fringe Necklace", "output": "Complete your boho look with this stylish fringe necklace in earthy tones. Ideal for Casual and Festivals."}
+{"input": "Tropical Print Romper", "output": "Get vacation-ready in this vibrant tropical print romper. Ideal for Casual and Beaches."}
+{"input": "Bohemian Print Kimono", "output": "Add a bohemian touch to any outfit with this colorful printed kimono. Ideal for Casual and Festivals."}
+{"input": "Retro Round Sunglasses", "output": "Channel retro vibes with these stylish round sunglasses in tortoise shell. Ideal for Casual and Outdoor Events."}
+{"input": "Linen Button-Up Shirt", "output": "Stay cool and stylish in this breezy linen button-up shirt in crisp white. Ideal for Casual and Everyday Wear."}
+{"input": "Printed Palazzo Pants", "output": "Make a statement in these vibrant printed palazzo pants with bohemian flair. Ideal for Casual and Everyday Wear."}
+{"input": "Retro Print Bandana", "output": "Add a retro touch to your look with this vibrant retro print bandana in red. Ideal for Casual and Outdoor Events."}
+{"input": "Embroidered Crop Top", "output": "Stay on-trend with this chic embroidered crop top in crisp white. Ideal for Casual and Everyday Wear."}
+{"input": "Boho Crochet Vest", "output": "Complete your boho look with this stylish crochet vest in creamy hues. Ideal for Casual and Festivals."}
+{"input": "Statement Dangle Earrings", "output": "Make a statement with these bold dangle earrings in elegant gold. Ideal for Casual and Party."}
+{"input": "Boho Fringe Belt", "output": "Complete your boho look with this stylish fringe belt in earthy tones. Ideal for Casual and Festivals."}
+{"input": "Tropical Print Shirt Dress", "output": "Stay chic and comfortable in this vibrant tropical print shirt dress. Ideal for Casual and Beaches."}
+{"input": "Classic Aviator Sunglasses", "output": "Achieve a timeless look with these classic aviator sunglasses in elegant gold. Ideal for Casual and Outdoor Events."}
+{"input": "Boho Print Maxi Dress", "output": "Channel your inner boho goddess in this stunning printed maxi dress. Ideal for Casual and Festivals."}
+{"input": "Retro Striped Swimsuit", "output": "Get retro-inspired style with this chic striped swimsuit in blue and white. Ideal for Beachwear and Pool Party."}
+{"input": "Boho Fringe Crossbody Bag", "output": "Complete your boho look with this stylish fringe crossbody bag in earthy tones. Ideal for Casual and Festivals."}
+{"input": "Printed Kimono Cardigan", "output": "Add a touch of bohemian flair to any outfit with this printed kimono cardigan. Ideal for Casual and Everyday Wear."}
+{"input": "Retro High-Waisted Bikini", "output": "Get retro beach vibes with this chic high-waisted bikini in black and white. Ideal for Beachwear and Pool Party."}
+{"input": "Boho Print Wide-Leg Pants", "output": "Make a statement in these boho-inspired wide-leg pants with colorful prints. Ideal for Casual and Everyday Wear."}
+{"input": "Boho Fringe Ankle Boots", "output": "Complete your boho look with these stylish fringe ankle boots in earthy tones. Ideal for Casual and Festivals."}
+{"input": "Vintage Round Sunglasses", "output": "Channel retro vibes with these stylish round sunglasses in classic black. Ideal for Casual and Outdoor Events."}
+{"input": "Ruffled Floral Blouse", "output": "A lovely ruffled blouse with a floral pattern, perfect for a casual day out. Ideal for Casual and Everyday Wear."}
+{"input": "Denim Jacket", "output": "Classic denim jacket, perfect for layering over any outfit. Ideal for Casual and Outdoor Activities."}
+{"input": "Embroidered Maxi Skirt", "output": "Elegant maxi skirt with intricate embroidery, perfect for special occasions. Ideal for Party and Anniversary."}
+{"input": "Floral Print Maxi Dress", "output": "A beautiful floral print maxi dress perfect for summer occasions. Occasions: Casual, Beach Party."}
+{"input": "Slim Fit Jeans", "output": "Classic slim fit jeans made from stretch denim for comfort. Occasions: Casual, Everyday Wear."}
+{"input": "Striped Polo T-shirt", "output": "A stylish polo t-shirt with horizontal stripes for a sporty look. Occasions: Casual, Sportswear."}
+{"input": "Tropical Print Bikini", "output": "Get ready for the beach in this vibrant tropical print bikini. Occasions: Beachwear, Party."}
+{"input": "Strapless Evening Gown", "output": "Make a statement at your next anniversary dinner with this stunning strapless gown. Occasions: Formal, Anniversary."}
+{"input": "Canvas Backpack", "output": "A durable canvas backpack perfect for outdoor adventures or casual city strolls. Occasions: Casual, Travel."}
+{"input": "Retro Sunglasses", "output": "Channel your inner retro vibe with these stylish tortoise shell sunglasses. Occasions: Casual, Outdoor Events."}
+{"input": "Leather Crossbody Bag", "output": "A versatile leather crossbody bag perfect for everyday use or nights out. Occasions: Casual, Party."}
+{"input": "Boho Fringe Poncho", "output": "Add a touch of bohemian flair to your look with this chic fringe poncho in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Crop Top", "output": "Trendy crop top featuring a vibrant tropical print, perfect for beach parties or summer outings."}
+{"input": "Vintage Lace Midi Dress", "output": "Elegant lace midi dress with a vintage-inspired design, perfect for garden parties or date nights."}
+{"input": "Retro Print One-Piece Swimsuit", "output": "Channel retro vibes with this chic one-piece swimsuit in a vibrant print, perfect for pool parties or beach gatherings."}
+{"input": "Boho Fringe Kimono", "output": "Complete your boho look with this stylish fringe kimono in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Tank Top", "output": "Make a statement with this bold graphic print tank top. Perfect for casual outings or parties."}
+{"input": "Denim Mini Skirt", "output": "Stay stylish and casual in this classic denim mini skirt. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Dress", "output": "Elegant maxi dress with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Jumpsuit", "output": "Stay chic and stylish in this vibrant floral print jumpsuit, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Suede Jacket", "output": "Complete your boho look with this stylish fringe suede jacket in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Wrap Dress", "output": "Stay chic and comfortable in this vibrant tropical print wrap dress, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Blouse", "output": "Elegant lace blouse with a vintage-inspired design, perfect for garden parties or date nights."}
+{"input": "Retro Print High-Waisted Shorts", "output": "Get retro-inspired style with these chic high-waisted shorts in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Vest", "output": "Complete your boho look with this stylish fringe vest in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Hoodie", "output": "Make a statement with this bold graphic print hoodie. Perfect for casual outings or parties."}
+{"input": "Denim Button-Up Skirt", "output": "Stay stylish and casual in this classic denim button-up skirt. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Mini Dress", "output": "Elegant mini dress with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Maxi Skirt", "output": "Make a statement in this vibrant floral print maxi skirt, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Cropped Jacket", "output": "Complete your boho look with this stylish cropped fringe jacket in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Playsuit", "output": "Stay chic and comfortable in this vibrant tropical print playsuit, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Maxi Skirt", "output": "Elegant lace maxi skirt with a vintage-inspired design, perfect for garden parties or date nights."}
+{"input": "Retro Print Button-Up Shirt", "output": "Get retro-inspired style with this chic button-up shirt in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Cape", "output": "Complete your boho look with this stylish fringe cape in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Bomber Jacket", "output": "Make a statement with this bold graphic print bomber jacket. Perfect for casual outings or parties."}
+{"input": "Denim Overall Shorts", "output": "Stay stylish and casual in these classic denim overall shorts. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Crop Top", "output": "Elegant crop top with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Kimono", "output": "Make a statement in this vibrant floral print kimono, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Crossbody Bag", "output": "Complete your boho chic ensemble with this stylish fringe crossbody bag in earthy tones, perfect for festivals or casual outings."}
+{"input": "Tropical Print Romper", "output": "Stay chic and trendy in this vibrant tropical print romper, ideal for beach parties or summer outings."}
+{"input": "Vintage Lace Kimono", "output": "Add a touch of vintage elegance to your look with this lace kimono, perfect for garden parties or date nights."}
+{"input": "Retro Print Midi Skirt", "output": "Channel retro vibes with this chic midi skirt featuring a vibrant print, suitable for summer parties or casual outings."}
+{"input": "Denim Overall Dress", "output": "Stay effortlessly stylish in this classic denim overall dress, perfect for beach walks or casual weekends."}
+{"input": "Embroidered Boho Top", "output": "Elevate your bohemian style with this intricately embroidered top, suitable for casual gatherings or festivals."}
+{"input": "Floral Print Halter Dress", "output": "Make a statement in this stunning floral print halter dress, perfect for beach weddings or summer soirées."}
+{"input": "Graphic Print Crop Top", "output": "Stand out with this bold graphic print crop top, great for casual outings or party nights."}
+{"input": "Leather Fringe Sandals", "output": "Step into style with these chic leather fringe sandals, perfect for casual strolls or festival fun."}
+{"input": "Striped Maxi Skirt", "output": "Stay on-trend with this striped maxi skirt, versatile for casual outings or beach vacations."}
+{"input": "Boho Fringe Bucket Hat", "output": "Complete your boho look with this trendy fringe bucket hat, perfect for festivals or outdoor adventures."}
+{"input": "Tropical Print Button-Up Shirt", "output": "Get into vacation mode with this tropical print button-up shirt, ideal for beach days or island getaways."}
+{"input": "Vintage Lace Shorts", "output": "Add a touch of vintage charm to your wardrobe with these lace shorts, perfect for summer picnics or date nights."}
+{"input": "Retro Print Bandeau Top", "output": "Channel retro vibes with this chic bandeau top featuring a vibrant print, suitable for summer festivals or beach parties."}
+{"input": "Denim Fringe Jacket", "output": "Stay trendy with this denim fringe jacket, perfect for casual outings or outdoor concerts."}
+{"input": "Embroidered Boho Dress", "output": "Radiate bohemian elegance in this beautifully embroidered dress, suitable for garden parties or romantic evenings."}
+{"input": "Floral Print Wrap Dress", "output": "Make a statement in this floral print wrap dress, perfect for brunches or garden parties."}
+{"input": "Graphic Print Tote Bag", "output": "Carry your essentials in style with this bold graphic print tote bag, suitable for everyday use or shopping trips."}
+{"input": "Leather Fringe Belt", "output": "Accessorize with this stylish leather fringe belt, perfect for adding flair to your casual or festival outfits."}
+{"input": "Striped Off-Shoulder Top", "output": "Stay chic and trendy in this striped off-shoulder top, perfect for picnics or casual outings."}
+{"input": "Boho Fringe Earrings", "output": "Complete your boho look with these stylish fringe earrings, suitable for festivals or nights out."}
+{"input": "Tropical Print Maxi Dress", "output": "Get vacation-ready with this tropical print maxi dress, perfect for beach weddings or resort evenings."}
+{"input": "Vintage Lace Crop Top", "output": "Add a touch of vintage charm to your outfit with this lace crop top, suitable for date nights or garden parties."}
+{"input": "Retro Print Flare Skirt", "output": "Channel retro vibes with this chic flare skirt featuring a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Denim Fringe Shorts", "output": "Stay stylish and casual in these denim fringe shorts, perfect for beach walks or summer outings."}
+{"input": "Embroidered Boho Skirt", "output": "Elevate your bohemian style with this embroidered skirt, suitable for festivals or casual gatherings."}
+{"input": "Floral Print Off-Shoulder Romper", "output": "Make a statement in this floral print off-shoulder romper, perfect for beach picnics or summer outings."}
+{"input": "Graphic Print Scarf", "output": "Add a pop of color to your ensemble with this bold graphic print scarf, suitable for any occasion."}
+{"input": "Leather Fringe Clutch", "output": "Accessorize your look with this stylish leather fringe clutch, perfect for parties or nights out."}
+{"input": "Striped Midi Dress", "output": "Stay chic and trendy in this striped midi dress, suitable for brunches or casual evenings."}
+{"input": "Boho Fringe Necklace", "output": "Complete your boho look with this stylish fringe necklace, suitable for festivals or everyday wear."}
+{"input": "Tropical Print Wide-Leg Jumpsuit", "output": "Stay chic and comfortable in this tropical print wide-leg jumpsuit, perfect for beach parties or summer evenings."}
+{"input": "Vintage Lace Headband", "output": "Add a vintage touch to your hairstyle with this lace headband, perfect for garden parties or afternoon tea."}
+{"input": "Retro Print Halter Dress", "output": "Channel retro vibes with this chic halter dress featuring a vibrant print, suitable for summer parties or casual outings."}
+{"input": "Denim Fringe Skirt", "output": "Stay trendy with this denim fringe skirt, perfect for casual outings or weekend brunches."}
+{"input": "Embroidered Boho Blouse", "output": "Elevate your bohemian style with this embroidered blouse, suitable for festivals or casual gatherings."}
+{"input": "Floral Print Wrap Skirt", "output": "Make a statement in this floral print wrap skirt, perfect for picnics or garden parties."}
+{"input": "Graphic Print Sneakers", "output": "Step out in style with these bold graphic print sneakers, suitable for casual outings or urban adventures."}
+{"input": "Leather Fringe Boots", "output": "Complete your look with these stylish leather fringe boots, perfect for festivals or nights out."}
+{"input": "Striped Crop Top", "output": "Stay chic and trendy in this striped crop top, suitable for beach days or casual outings."}
+{"input": "Boho Fringe Bracelet", "output": "Accessorize your wrists with this stylish fringe bracelet, suitable for festivals or everyday wear."}
+{"input": "Tropical Print Mini Skirt", "output": "Stay chic and trendy in this tropical print mini skirt, perfect for beach parties or summer outings."}
+{"input": "Vintage Lace Gloves", "output": "Add a vintage touch to your ensemble with these lace gloves, perfect for formal events or retro-themed parties."}
+{"input": "Retro Print Button-Up Dress", "output": "Channel retro vibes with this chic button-up dress featuring a vibrant print, suitable for summer parties or casual outings."}
+{"input": "Denim Fringe Vest", "output": "Stay stylish and trendy with this denim fringe vest, perfect for casual outings or music festivals."}
+{"input": "Embroidered Boho Cardigan", "output": "Elevate your bohemian style with this embroidered cardigan, suitable for festivals or casual gatherings."}
+{"input": "Floral Print Off-Shoulder Top", "output": "Make a statement in this floral print off-shoulder top, perfect for beach picnics or summer outings."}
+{"input": "Graphic Print Leggings", "output": "Step out in style with these bold graphic print leggings, suitable for workouts or casual outings."}
+{"input": "Leather Fringe Belt Bag", "output": "Accessorize with this stylish leather fringe belt bag, perfect for festivals or travel adventures."}
+{"input": "Striped Romper", "output": "Stay chic and trendy in this striped romper, suitable for beach parties or casual outings."}
+{"input": "Boho Fringe Hair Clip", "output": "Accessorize your hair with this stylish fringe hair clip, suitable for festivals or everyday wear."}
+{"input": "Tropical Print Kimono", "output": "Stay chic and trendy in this tropical print kimono, perfect for beach parties or summer evenings."}
+{"input": "Vintage Lace Choker", "output": "Add a vintage touch to your neckline with this lace choker, perfect for formal events or retro-themed parties."}
+{"input": "Retro Print Wrap Top", "output": "Channel retro vibes with this chic wrap top featuring a vibrant print, suitable for summer parties or casual outings."}
+{"input": "Denim Fringe Crossbody Bag", "output": "Stay stylish and trendy with this denim fringe crossbody bag, perfect for casual outings or music festivals."}
+{"input": "Embroidered Boho Kimono", "output": "Elevate your bohemian style with this embroidered kimono, suitable for festivals or casual gatherings."}
+{"input": "Floral Print Sundress", "output": "Make a statement in this floral print sundress, perfect for picnics or garden parties."}
+{"input": "Graphic Print Bucket Hat", "output": "Stay trendy with this bold graphic print bucket hat, suitable for outdoor adventures or casual outings."}
+{"input": "Leather Fringe Necklace", "output": "Complete your look with this stylish leather fringe necklace, perfect for festivals or nights out."}
+{"input": "Striped Wrap Skirt", "output": "Stay chic and trendy in this striped wrap skirt, suitable for beach days or casual outings."}
+{"input": "Boho Fringe Anklet", "output": "Accessorize your ankles with this stylish fringe anklet, suitable for festivals or beach parties."}
+{"input": "Tropical Print Off-Shoulder Dress", "output": "Make a statement in this tropical print off-shoulder dress, perfect for beach weddings or summer soirées."}
+{"input": "Vintage Lace Belt", "output": "Add a vintage touch to your outfit with this lace belt, suitable for formal events or retro-themed parties."}
+{"input": "Retro Print High-Waisted Pants", "output": "Channel retro vibes with these chic high-waisted pants featuring a vibrant print, suitable for summer parties or casual outings."}
+{"input": "Denim Fringe Choker", "output": "Complete your denim look with this stylish fringe choker, suitable for festivals or nights out."}
+{"input": "Embroidered Boho Poncho", "output": "Elevate your bohemian style with this embroidered poncho, suitable for festivals or casual gatherings."}
+{"input": "Floral Print Ruffle Blouse", "output": "Make a statement in this floral print ruffle blouse, perfect for brunches or garden parties."}
+{"input": "Graphic Print Baseball Cap", "output": "Step out in style with this bold graphic print baseball cap, suitable for outdoor activities or casual outings."}
+{"input": "Leather Fringe Wallet", "output": "Accessorize your essentials with this stylish leather fringe wallet, perfect for festivals or nights out."}
+{"input": "Striped Button-Up Shirt", "output": "Stay chic and trendy in this striped button-up shirt, suitable for beach days or casual outings."}
+{"input": "Boho Fringe Sunglasses", "output": "Complete your boho look with these stylish fringe sunglasses, suitable for festivals or outdoor adventures."}
+{"input": "Tropical Print Crop Top", "output": "Stay chic and trendy in this tropical print crop top, perfect for beach parties or summer outings."}
+{"input": "Vintage Lace Scarf", "output": "Add a vintage touch to your ensemble with this lace scarf, perfect for formal events or retro-themed parties."}
+{"input": "Retro Print Bell Sleeve Blouse", "output": "Channel retro vibes with this chic bell sleeve blouse featuring a vibrant print, suitable for summer parties or casual outings."}
+{"input": "Denim Fringe Headband", "output": "Complete your denim look with this stylish fringe headband, suitable for festivals or casual outings."}
+{"input": "Embroidered Boho Tote Bag", "output": "Elevate your bohemian style with this embroidered tote bag, suitable for festivals or casual gatherings."}
+{"input": "Floral Print Wrap Top", "output": "Make a statement in this floral print wrap top, perfect for brunches or garden parties."}
+{"input": "Graphic Print Crossbody Bag", "output": "Carry your essentials in style with this bold graphic print crossbody bag, suitable for everyday use or shopping trips."}
+{"input": "Leather Fringe Hoop Earrings", "output": "Accessorize your ears with these stylish leather fringe hoop earrings, perfect for festivals or nights out."}
+{"input": "Striped Shift Dress", "output": "Stay chic and trendy in this striped shift dress, suitable for brunches or casual evenings."}
+{"input": "Boho Fringe Midi Skirt", "output": "Complete your boho look with this stylish fringe midi skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Wide-Leg Pants", "output": "Stay chic and comfortable in these vibrant tropical print wide-leg pants, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Shift Dress", "output": "Elegant lace shift dress with a vintage-inspired design, perfect for garden parties or date nights."}
+{"input": "Retro Print Halter Top", "output": "Get retro-inspired style with this chic halter top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Maxi Dress", "output": "Complete your boho look with this stylish fringe maxi dress in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Midi Dress", "output": "Make a statement in this bold graphic print midi dress. Perfect for casual outings or parties."}
+{"input": "Denim Shirt Dress", "output": "Stay stylish and casual in this classic denim shirt dress. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Off-Shoulder Top", "output": "Elegant off-shoulder top with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Wrap Skirt", "output": "Make a statement in this vibrant floral print wrap skirt, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Peasant Blouse", "output": "Complete your boho look with this stylish peasant blouse with fringe details. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Kimono Wrap", "output": "Stay chic and comfortable in this vibrant tropical print kimono wrap, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace A-Line Dress", "output": "Elegant A-line dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Flare Pants", "output": "Get retro-inspired style with these chic flare pants in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Poncho", "output": "Complete your boho look with this stylish fringe poncho in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Mini Skirt", "output": "Make a statement in this bold graphic print mini skirt. Perfect for casual outings or parties."}
+{"input": "Denim Pencil Skirt", "output": "Stay stylish and casual in this classic denim pencil skirt. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Peplum Top", "output": "Elegant peplum top with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Off-Shoulder Dress", "output": "Make a statement in this vibrant floral print off-shoulder dress, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Maxi Skirt", "output": "Complete your boho look with this stylish fringe maxi skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Sarong", "output": "Stay chic and comfortable in this vibrant tropical print sarong, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Bell Sleeve Blouse", "output": "Elegant bell sleeve blouse with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Tie-Front Top", "output": "Get retro-inspired style with this chic tie-front top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Belted Cardigan", "output": "Complete your boho look with this stylish belted cardigan with fringe details. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Wide-Leg Jumpsuit", "output": "Make a statement in this bold graphic print wide-leg jumpsuit. Perfect for casual outings or parties."}
+{"input": "Denim Wide-Leg Jeans", "output": "Stay stylish and casual in these classic denim wide-leg jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Skirt", "output": "Elegant maxi skirt with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Peasant Blouse", "output": "Make a statement in this vibrant floral print peasant blouse, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Halter Top", "output": "Complete your boho look with this stylish fringe halter top in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Ruffle Hem Dress", "output": "Stay chic and comfortable in this vibrant tropical print ruffle hem dress, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Slip Dress", "output": "Elegant slip dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Bell Sleeve Top", "output": "Get retro-inspired style with this chic bell sleeve top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Scarf", "output": "Complete your boho look with this stylish fringe scarf in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Shift Dress", "output": "Make a statement in this bold graphic print shift dress. Perfect for casual outings or parties."}
+{"input": "Denim Flare Jeans", "output": "Stay stylish and casual in these classic denim flare jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered A-Line Skirt", "output": "Elegant A-line skirt with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Wrap Blouse", "output": "Make a statement in this vibrant floral print wrap blouse, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Mini Skirt", "output": "Complete your boho look with this stylish fringe mini skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Palazzo Pants", "output": "Stay chic and comfortable in these vibrant tropical print palazzo pants, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Boho Dress", "output": "Elegant boho dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Wrap Dress", "output": "Get retro-inspired style with this chic wrap dress in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Suede Skirt", "output": "Complete your boho look with this stylish fringe suede skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Flare Pants", "output": "Make a statement in these bold graphic print flare pants. Perfect for casual outings or parties."}
+{"input": "Denim Skinny Jeans", "output": "Stay stylish and casual in these classic denim skinny jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Dress", "output": "Elegant maxi dress with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Off-Shoulder Top", "output": "Make a statement in this vibrant floral print off-shoulder top, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Poncho", "output": "Complete your boho look with this stylish fringe poncho in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Wide-Leg Jumpsuit", "output": "Stay chic and comfortable in this vibrant tropical print wide-leg jumpsuit, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Bell Sleeve Blouse", "output": "Elegant bell sleeve blouse with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Tie-Front Top", "output": "Get retro-inspired style with this chic tie-front top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Belted Cardigan", "output": "Complete your boho look with this stylish belted cardigan with fringe details. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Wide-Leg Jumpsuit", "output": "Make a statement in this bold graphic print wide-leg jumpsuit. Perfect for casual outings or parties."}
+{"input": "Denim Wide-Leg Jeans", "output": "Stay stylish and casual in these classic denim wide-leg jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Skirt", "output": "Elegant maxi skirt with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Peasant Blouse", "output": "Make a statement in this vibrant floral print peasant blouse, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Halter Top", "output": "Complete your boho look with this stylish fringe halter top in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Ruffle Hem Dress", "output": "Stay chic and comfortable in this vibrant tropical print ruffle hem dress, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Slip Dress", "output": "Elegant slip dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Bell Sleeve Top", "output": "Get retro-inspired style with this chic bell sleeve top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Scarf", "output": "Complete your boho look with this stylish fringe scarf in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Shift Dress", "output": "Make a statement in this bold graphic print shift dress. Perfect for casual outings or parties."}
+{"input": "Denim Flare Jeans", "output": "Stay stylish and casual in these classic denim flare jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered A-Line Skirt", "output": "Elegant A-line skirt with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Wrap Blouse", "output": "Make a statement in this vibrant floral print wrap blouse, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Mini Skirt", "output": "Complete your boho look with this stylish fringe mini skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Palazzo Pants", "output": "Stay chic and comfortable in these vibrant tropical print palazzo pants, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Boho Dress", "output": "Elegant boho dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Wrap Dress", "output": "Get retro-inspired style with this chic wrap dress in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Suede Skirt", "output": "Complete your boho look with this stylish fringe suede skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Flare Pants", "output": "Make a statement in these bold graphic print flare pants. Perfect for casual outings or parties."}
+{"input": "Denim Skinny Jeans", "output": "Stay stylish and casual in these classic denim skinny jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Dress", "output": "Elegant maxi dress with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Off-Shoulder Top", "output": "Make a statement in this vibrant floral print off-shoulder top, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Poncho", "output": "Complete your boho look with this stylish fringe poncho in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Wide-Leg Jumpsuit", "output": "Stay chic and comfortable in this vibrant tropical print wide-leg jumpsuit, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Bell Sleeve Blouse", "output": "Elegant bell sleeve blouse with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Tie-Front Top", "output": "Get retro-inspired style with this chic tie-front top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Belted Cardigan", "output": "Complete your boho look with this stylish belted cardigan with fringe details. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Wide-Leg Jumpsuit", "output": "Make a statement in this bold graphic print wide-leg jumpsuit. Perfect for casual outings or parties."}
+{"input": "Denim Wide-Leg Jeans", "output": "Stay stylish and casual in these classic denim wide-leg jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Skirt", "output": "Elegant maxi skirt with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Peasant Blouse", "output": "Make a statement in this vibrant floral print peasant blouse, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Halter Top", "output": "Complete your boho look with this stylish fringe halter top in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Ruffle Hem Dress", "output": "Stay chic and comfortable in this vibrant tropical print ruffle hem dress, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Slip Dress", "output": "Elegant slip dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Bell Sleeve Top", "output": "Get retro-inspired style with this chic bell sleeve top in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Scarf", "output": "Complete your boho look with this stylish fringe scarf in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Shift Dress", "output": "Make a statement in this bold graphic print shift dress. Perfect for casual outings or parties."}
+{"input": "Denim Flare Jeans", "output": "Stay stylish and casual in these classic denim flare jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered A-Line Skirt", "output": "Elegant A-line skirt with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Wrap Blouse", "output": "Make a statement in this vibrant floral print wrap blouse, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Mini Skirt", "output": "Complete your boho look with this stylish fringe mini skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Tropical Print Palazzo Pants", "output": "Stay chic and comfortable in these vibrant tropical print palazzo pants, perfect for beach walks or summer outings."}
+{"input": "Vintage Lace Boho Dress", "output": "Elegant boho dress with intricate lace detailing, perfect for garden parties or date nights."}
+{"input": "Retro Print Wrap Dress", "output": "Get retro-inspired style with this chic wrap dress in a vibrant print, perfect for summer parties or casual outings."}
+{"input": "Boho Fringe Suede Skirt", "output": "Complete your boho look with this stylish fringe suede skirt in earthy tones. Ideal for Casual or Festivals."}
+{"input": "Graphic Print Flare Pants", "output": "Make a statement in these bold graphic print flare pants. Perfect for casual outings or parties."}
+{"input": "Denim Skinny Jeans", "output": "Stay stylish and casual in these classic denim skinny jeans. Perfect for beach walks or summer outings."}
+{"input": "Embroidered Maxi Dress", "output": "Elegant maxi dress with intricate embroidery, perfect for garden parties or anniversary celebrations."}
+{"input": "Floral Print Off-Shoulder Top", "output": "Make a statement in this vibrant floral print off-shoulder top, perfect for summer parties or casual outings."}
+{"input": "Vintage Lace Bell Sleeve Dress", "output": "Step into timeless elegance with this vintage lace bell sleeve dress, perfect for romantic evenings or special occasions."}
+{"input": "Retro Print Tie-Back Top", "output": "Add a retro twist to your ensemble with this tie-back top featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Wrap Skirt", "output": "Wrap yourself in tropical vibes with this printed wrap skirt, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Blouse", "output": "Embrace bohemian beauty in this embroidered blouse featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Flutter Sleeve Top", "output": "Elevate your look with this vintage-inspired flutter sleeve top adorned with lace, ideal for adding a touch of romance to any occasion."}
+{"input": "Retro Print Midi Dress", "output": "Channel retro vibes in this midi dress featuring a bold print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Smocked Romper", "output": "Get ready for summer adventures in this smocked romper adorned with a tropical print, perfect for beachside escapades or outdoor festivals."}
+{"input": "Boho Fringe Embellished Skirt", "output": "Embrace bohemian charm in this embellished skirt featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Off-Shoulder Top", "output": "Exude vintage romance in this lace off-shoulder top, perfect for adding a touch of elegance to any outfit for parties or date nights."}
+{"input": "Retro Print Wide-Leg Jumpsuit", "output": "Make a statement in this wide-leg jumpsuit adorned with a retro print, perfect for adding a bold touch to your summer or party look."}
+{"input": "Tropical Print Halter Top", "output": "Stay chic and tropical in this halter top adorned with a vibrant print, perfect for beachside brunches or casual outings with friends."}
+{"input": "Boho Fringe Embroidered Dress", "output": "Channel bohemian vibes in this embroidered dress featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Pencil Skirt", "output": "Step into sophistication with this vintage lace pencil skirt, ideal for adding a touch of elegance to your workwear or evening attire."}
+{"input": "Retro Print Tie-Front Dress", "output": "Add retro flair to your wardrobe with this tie-front dress featuring a bold print, perfect for summer parties or outdoor events."}
+{"input": "Tropical Print Wrap Crop Top", "output": "Sizzle in the sun with this wrap crop top adorned with a tropical print, perfect for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Kimono", "output": "Layer up in bohemian style with this embroidered kimono featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Midi Skirt", "output": "Radiate vintage charm in this lace midi skirt, perfect for adding a touch of romance to any occasion from parties to date nights."}
+{"input": "Retro Print Button-Up Skirt", "output": "Add a retro twist to your look with this button-up skirt featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Flutter Sleeve Dress", "output": "Flutter into summer with this flutter sleeve dress adorned with a tropical print, ideal for beachside soirees or outdoor weddings."}
+{"input": "Boho Fringe Embellished Vest", "output": "Elevate your boho chic style with this embellished vest featuring fringe details, perfect for adding flair to your festival or casual look."}
+{"input": "Vintage Lace Maxi Blouse", "output": "Exude vintage elegance in this lace maxi blouse, offering sophistication and grace for formal events or romantic evenings."}
+{"input": "Retro Print Smocked Top", "output": "Step back in time with this smocked top adorned with a retro print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Cropped Pants", "output": "Stay cool and chic in these cropped pants adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embroidered Shorts", "output": "Embrace bohemian charm in these embroidered shorts featuring fringe details, perfect for adding a playful twist to your festival or casual ensemble."}
+{"input": "Vintage Lace Bell Sleeve Dress", "output": "Step into timeless elegance with this vintage lace bell sleeve dress, perfect for romantic evenings or special occasions."}
+{"input": "Retro Print Tie-Back Top", "output": "Add a retro twist to your ensemble with this tie-back top featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Wrap Skirt", "output": "Wrap yourself in tropical vibes with this printed wrap skirt, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Blouse", "output": "Embrace bohemian beauty in this embroidered blouse featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Flutter Sleeve Top", "output": "Elevate your look with this vintage-inspired flutter sleeve top adorned with lace, ideal for adding a touch of romance to any occasion."}
+{"input": "Retro Print Midi Dress", "output": "Channel retro vibes in this midi dress featuring a bold print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Smocked Romper", "output": "Get ready for summer adventures in this smocked romper adorned with a tropical print, perfect for beachside escapades or outdoor festivals."}
+{"input": "Boho Fringe Embellished Skirt", "output": "Embrace bohemian charm in this embellished skirt featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Off-Shoulder Top", "output": "Exude vintage romance in this lace off-shoulder top, perfect for adding a touch of elegance to any outfit for parties or date nights."}
+{"input": "Retro Print Wide-Leg Jumpsuit", "output": "Make a statement in this wide-leg jumpsuit adorned with a retro print, perfect for adding a bold touch to your summer or party look."}
+{"input": "Tropical Print Halter Top", "output": "Stay chic and tropical in this halter top adorned with a vibrant print, perfect for beachside brunches or casual outings with friends."}
+{"input": "Boho Fringe Embroidered Dress", "output": "Channel bohemian vibes in this embroidered dress featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Pencil Skirt", "output": "Step into sophistication with this vintage lace pencil skirt, ideal for adding a touch of elegance to your workwear or evening attire."}
+{"input": "Retro Print Tie-Front Dress", "output": "Add retro flair to your wardrobe with this tie-front dress featuring a bold print, perfect for summer parties or outdoor events."}
+{"input": "Tropical Print Wrap Crop Top", "output": "Sizzle in the sun with this wrap crop top adorned with a tropical print, perfect for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Kimono", "output": "Layer up in bohemian style with this embroidered kimono featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Midi Skirt", "output": "Radiate vintage charm in this lace midi skirt, perfect for adding a touch of romance to any occasion from parties to date nights."}
+{"input": "Retro Print Button-Up Skirt", "output": "Add a retro twist to your look with this button-up skirt featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Flutter Sleeve Dress", "output": "Flutter into summer with this flutter sleeve dress adorned with a tropical print, ideal for beachside soirees or outdoor weddings."}
+{"input": "Boho Fringe Embellished Vest", "output": "Elevate your boho chic style with this embellished vest featuring fringe details, perfect for adding flair to your festival or casual look."}
+{"input": "Vintage Lace Maxi Blouse", "output": "Exude vintage elegance in this lace maxi blouse, offering sophistication and grace for formal events or romantic evenings."}
+{"input": "Retro Print Smocked Top", "output": "Step back in time with this smocked top adorned with a retro print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Cropped Pants", "output": "Stay cool and chic in these cropped pants adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embroidered Shorts", "output": "Embrace bohemian charm in these embroidered shorts featuring fringe details, perfect for adding a playful twist to your festival or casual ensemble."}
+{"input": "Vintage Lace Bell Sleeve Dress", "output": "Step into timeless elegance with this vintage lace bell sleeve dress, perfect for romantic evenings or special occasions."}
+{"input": "Retro Print Tie-Back Top", "output": "Add a retro twist to your ensemble with this tie-back top featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Wrap Skirt", "output": "Wrap yourself in tropical vibes with this printed wrap skirt, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Blouse", "output": "Embrace bohemian beauty in this embroidered blouse featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Flutter Sleeve Top", "output": "Elevate your look with this vintage-inspired flutter sleeve top adorned with lace, ideal for adding a touch of romance to any occasion."}
+{"input": "Retro Print Midi Dress", "output": "Channel retro vibes in this midi dress featuring a bold print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Smocked Romper", "output": "Get ready for summer adventures in this smocked romper adorned with a tropical print, perfect for beachside escapades or outdoor festivals."}
+{"input": "Boho Fringe Embellished Skirt", "output": "Embrace bohemian charm in this embellished skirt featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Off-Shoulder Top", "output": "Exude vintage romance in this lace off-shoulder top, perfect for adding a touch of elegance to any outfit for parties or date nights."}
+{"input": "Retro Print Wide-Leg Jumpsuit", "output": "Make a statement in this wide-leg jumpsuit adorned with a retro print, perfect for adding a bold touch to your summer or party look."}
+{"input": "Tropical Print Halter Top", "output": "Stay chic and tropical in this halter top adorned with a vibrant print, perfect for beachside brunches or casual outings with friends."}
+{"input": "Boho Fringe Embroidered Dress", "output": "Channel bohemian vibes in this embroidered dress featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Pencil Skirt", "output": "Step into sophistication with this vintage lace pencil skirt, ideal for adding a touch of elegance to your workwear or evening attire."}
+{"input": "Retro Print Tie-Front Dress", "output": "Add retro flair to your wardrobe with this tie-front dress featuring a bold print, perfect for summer parties or outdoor events."}
+{"input": "Tropical Print Wrap Crop Top", "output": "Sizzle in the sun with this wrap crop top adorned with a tropical print, perfect for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Kimono", "output": "Layer up in bohemian style with this embroidered kimono featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Midi Skirt", "output": "Radiate vintage charm in this lace midi skirt, perfect for adding a touch of romance to any occasion from parties to date nights."}
+{"input": "Retro Print Button-Up Skirt", "output": "Add a retro twist to your look with this button-up skirt featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Flutter Sleeve Dress", "output": "Flutter into summer with this flutter sleeve dress adorned with a tropical print, ideal for beachside soirees or outdoor weddings."}
+{"input": "Boho Fringe Embellished Vest", "output": "Elevate your boho chic style with this embellished vest featuring fringe details, perfect for adding flair to your festival or casual look."}
+{"input": "Vintage Lace Maxi Blouse", "output": "Exude vintage elegance in this lace maxi blouse, offering sophistication and grace for formal events or romantic evenings."}
+{"input": "Retro Print Smocked Top", "output": "Step back in time with this smocked top adorned with a retro print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Cropped Pants", "output": "Stay cool and chic in these cropped pants adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embroidered Shorts", "output": "Embrace bohemian charm in these embroidered shorts featuring fringe details, perfect for adding a playful twist to your festival or casual ensemble."}
+{"input": "Vintage Lace Bell Sleeve Dress", "output": "Step into timeless elegance with this vintage lace bell sleeve dress, perfect for romantic evenings or special occasions."}
+{"input": "Retro Print Tie-Back Top", "output": "Add a retro twist to your ensemble with this tie-back top featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Wrap Skirt", "output": "Wrap yourself in tropical vibes with this printed wrap skirt, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Blouse", "output": "Embrace bohemian beauty in this embroidered blouse featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Flutter Sleeve Top", "output": "Elevate your look with this vintage-inspired flutter sleeve top adorned with lace, ideal for adding a touch of romance to any occasion."}
+{"input": "Retro Print Midi Dress", "output": "Channel retro vibes in this midi dress featuring a bold print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Smocked Romper", "output": "Get ready for summer adventures in this smocked romper adorned with a tropical print, perfect for beachside escapades or outdoor festivals."}
+{"input": "Boho Fringe Embellished Skirt", "output": "Embrace bohemian charm in this embellished skirt featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Off-Shoulder Top", "output": "Exude vintage romance in this lace off-shoulder top, perfect for adding a touch of elegance to any outfit for parties or date nights."}
+{"input": "Retro Print Wide-Leg Jumpsuit", "output": "Make a statement in this wide-leg jumpsuit adorned with a retro print, perfect for adding a bold touch to your summer or party look."}
+{"input": "Tropical Print Halter Top", "output": "Stay chic and tropical in this halter top adorned with a vibrant print, perfect for beachside brunches or casual outings with friends."}
+{"input": "Boho Fringe Embroidered Dress", "output": "Channel bohemian vibes in this embroidered dress featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Pencil Skirt", "output": "Step into sophistication with this vintage lace pencil skirt, ideal for adding a touch of elegance to your workwear or evening attire."}
+{"input": "Retro Print Tie-Front Dress", "output": "Add retro flair to your wardrobe with this tie-front dress featuring a bold print, perfect for summer parties or outdoor events."}
+{"input": "Tropical Print Wrap Crop Top", "output": "Sizzle in the sun with this wrap crop top adorned with a tropical print, perfect for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Kimono", "output": "Layer up in bohemian style with this embroidered kimono featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Midi Skirt", "output": "Radiate vintage charm in this lace midi skirt, perfect for adding a touch of romance to any occasion from parties to date nights."}
+{"input": "Retro Print Button-Up Skirt", "output": "Add a retro twist to your look with this button-up skirt featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Flutter Sleeve Dress", "output": "Flutter into summer with this flutter sleeve dress adorned with a tropical print, ideal for beachside soirees or outdoor weddings."}
+{"input": "Boho Fringe Embellished Vest", "output": "Elevate your boho chic style with this embellished vest featuring fringe details, perfect for adding flair to your festival or casual look."}
+{"input": "Vintage Lace Maxi Blouse", "output": "Exude vintage elegance in this lace maxi blouse, offering sophistication and grace for formal events or romantic evenings."}
+{"input": "Retro Print Smocked Top", "output": "Step back in time with this smocked top adorned with a retro print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Cropped Pants", "output": "Stay cool and chic in these cropped pants adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embroidered Shorts", "output": "Embrace bohemian charm in these embroidered shorts featuring fringe details, perfect for adding a playful twist to your festival or casual ensemble."}
+{"input": "Vintage Lace Bell Sleeve Dress", "output": "Step into timeless elegance with this vintage lace bell sleeve dress, perfect for romantic evenings or special occasions."}
+{"input": "Retro Print Tie-Back Top", "output": "Add a retro twist to your ensemble with this tie-back top featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Wrap Skirt", "output": "Wrap yourself in tropical vibes with this printed wrap skirt, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Blouse", "output": "Embrace bohemian beauty in this embroidered blouse featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Flutter Sleeve Top", "output": "Elevate your look with this vintage-inspired flutter sleeve top adorned with lace, ideal for adding a touch of romance to any occasion."}
+{"input": "Retro Print Midi Dress", "output": "Channel retro vibes in this midi dress featuring a bold print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Smocked Romper", "output": "Get ready for summer adventures in this smocked romper adorned with a tropical print, perfect for beachside escapades or outdoor festivals."}
+{"input": "Boho Fringe Embellished Skirt", "output": "Embrace bohemian charm in this embellished skirt featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Off-Shoulder Top", "output": "Exude vintage romance in this lace off-shoulder top, perfect for adding a touch of elegance to any outfit for parties or date nights."}
+{"input": "Retro Print Wide-Leg Jumpsuit", "output": "Make a statement in this wide-leg jumpsuit adorned with a retro print, perfect for adding a bold touch to your summer or party look."}
+{"input": "Tropical Print Halter Top", "output": "Stay chic and tropical in this halter top adorned with a vibrant print, perfect for beachside brunches or casual outings with friends."}
+{"input": "Boho Fringe Embroidered Dress", "output": "Channel bohemian vibes in this embroidered dress featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Pencil Skirt", "output": "Step into sophistication with this vintage lace pencil skirt, ideal for adding a touch of elegance to your workwear or evening attire."}
+{"input": "Retro Print Tie-Front Dress", "output": "Add retro flair to your wardrobe with this tie-front dress featuring a bold print, perfect for summer parties or outdoor events."}
+{"input": "Tropical Print Wrap Crop Top", "output": "Sizzle in the sun with this wrap crop top adorned with a tropical print, perfect for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embroidered Kimono", "output": "Layer up in bohemian style with this embroidered kimono featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Midi Skirt", "output": "Radiate vintage charm in this lace midi skirt, perfect for adding a touch of romance to any occasion from parties to date nights."}
+{"input": "Retro Print Button-Up Skirt", "output": "Add a retro twist to your look with this button-up skirt featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Flutter Sleeve Dress", "output": "Flutter into summer with this flutter sleeve dress adorned with a tropical print, ideal for beachside soirees or outdoor weddings."}
+{"input": "Boho Fringe Embellished Vest", "output": "Elevate your boho chic style with this embellished vest featuring fringe details, perfect for adding flair to your festival or casual look."}
+{"input": "Vintage Lace Maxi Blouse", "output": "Exude vintage elegance in this lace maxi blouse, offering sophistication and grace for formal events or romantic evenings."}
+{"input": "Retro Print Smocked Top", "output": "Step back in time with this smocked top adorned with a retro print, perfect for adding a playful twist to your summer or party ensemble."}
+{"input": "Tropical Print Cropped Pants", "output": "Stay cool and chic in these cropped pants adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embroidered Shorts", "output": "Embrace bohemian charm in these embroidered shorts featuring fringe details, perfect for adding a playful twist to your festival or casual ensemble."}
+{"input": "Vintage Lace Peplum Top", "output": "Elevate your style with this vintage lace peplum top, perfect for adding a touch of sophistication to your evening or party ensemble."}
+{"input": "Retro Print Ruffle Skirt", "output": "Step back in time with this ruffle skirt adorned with a retro print, ideal for adding flair to your summer outings or casual gatherings."}
+{"input": "Tropical Print Kimono Dress", "output": "Wrap yourself in tropical elegance with this kimono dress featuring a vibrant print, perfect for beachside weddings or summer soirées."}
+{"input": "Boho Fringe Embroidered Poncho", "output": "Channel bohemian vibes with this embroidered poncho featuring fringe details, ideal for adding a touch of whimsy to your festival or casual look."}
+{"input": "Vintage Lace Cap Sleeve Blouse", "output": "Exude vintage charm in this lace cap sleeve blouse, offering timeless elegance for both formal events and casual outings."}
+{"input": "Retro Print Halter Jumpsuit", "output": "Make a statement in this halter jumpsuit adorned with a retro print, perfect for adding a bold touch to your summer or party wardrobe."}
+{"input": "Tropical Print Wrap Maxi Dress", "output": "Embrace island vibes with this wrap maxi dress adorned with a tropical print, ideal for beach vacations or summer evenings."}
+{"input": "Boho Fringe Embellished Kimono", "output": "Layer up in bohemian style with this embellished kimono featuring fringe details, perfect for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace A-Line Dress", "output": "Radiate vintage glamour in this lace A-line dress, ideal for special occasions from weddings to cocktail parties."}
+{"input": "Retro Print Button-Up Blouse", "output": "Add a retro twist to your wardrobe with this button-up blouse featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Off-Shoulder Top", "output": "Stay chic and tropical in this off-shoulder top adorned with a vibrant print, ideal for beachside brunches or summer festivals."}
+{"input": "Boho Fringe Embroidered Maxi Skirt", "output": "Embrace bohemian chic with this embroidered maxi skirt featuring fringe details, perfect for adding a touch of whimsy to your festival or casual look."}
+{"input": "Vintage Lace Tiered Midi Dress", "output": "Step into vintage elegance with this tiered midi dress adorned with lace, perfect for romantic evenings or special events."}
+{"input": "Retro Print High-Waisted Shorts", "output": "Channel retro vibes with these high-waisted shorts adorned with a bold print, ideal for adding a playful twist to your summer wardrobe."}
+{"input": "Tropical Print Tie-Front Crop Top", "output": "Sizzle in the sun with this tie-front crop top adorned with a tropical print, perfect for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embellished Cardigan", "output": "Elevate your boho look with this embellished cardigan featuring fringe details, ideal for adding flair to your festival or casual ensemble."}
+{"input": "Vintage Lace Halter Neck Dress", "output": "Exude vintage charm in this halter neck dress adorned with lace, perfect for adding a touch of romance to any occasion."}
+{"input": "Retro Print Wrap Midi Skirt", "output": "Step back in time with this wrap midi skirt adorned with a retro print, ideal for adding flair to your summer outings or casual gatherings."}
+{"input": "Tropical Print Smocked Crop Top", "output": "Stay cool and chic in this smocked crop top adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embroidered Scarf", "output": "Accessorize with bohemian flair using this embroidered scarf featuring fringe details, ideal for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Fit and Flare Dress", "output": "Radiate vintage elegance in this fit and flare dress adorned with lace, perfect for special occasions from weddings to garden parties."}
+{"input": "Retro Print Pleated Midi Skirt", "output": "Add a retro twist to your wardrobe with this pleated midi skirt featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Wide-Leg Jumpsuit", "output": "Embrace island vibes with this wide-leg jumpsuit adorned with a tropical print, ideal for beach vacations or summer soirées."}
+{"input": "Boho Fringe Embellished Headband", "output": "Complete your boho look with this embellished headband featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Bell Sleeve Blouse", "output": "Step into timeless elegance with this bell sleeve blouse adorned with lace, perfect for adding a touch of romance to any outfit."}
+{"input": "Retro Print Tie-Neck Blouse", "output": "Channel retro vibes with this tie-neck blouse adorned with a bold print, ideal for adding a playful twist to your summer wardrobe."}
+{"input": "Tropical Print Fringed Kimono", "output": "Layer up in tropical style with this fringed kimono adorned with a vibrant print, perfect for beachside brunches or summer festivals."}
+{"input": "Boho Fringe Embroidered Jacket", "output": "Elevate your boho chic style with this embroidered jacket featuring fringe details, ideal for adding flair to your festival or casual look."}
+{"input": "Vintage Lace Sheath Dress", "output": "Exude vintage glamour in this lace sheath dress, perfect for special occasions from cocktail parties to romantic dinners."}
+{"input": "Retro Print Collared Shirt Dress", "output": "Add a retro twist to your wardrobe with this collared shirt dress featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Belted Romper", "output": "Stay chic and tropical in this belted romper adorned with a vibrant print, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embellished Belt", "output": "Accessorize with bohemian flair using this embellished belt featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Ruffle Sleeve Top", "output": "Radiate vintage charm in this ruffle sleeve top adorned with lace, perfect for adding a touch of romance to any outfit."}
+{"input": "Retro Print Crop Jacket", "output": "Step back in time with this cropped jacket adorned with a retro print, ideal for adding flair to your summer outfits or casual gatherings."}
+{"input": "Tropical Print Spaghetti Strap Dress", "output": "Embrace island vibes with this spaghetti strap dress adorned with a tropical print, perfect for beach vacations or summer soirées."}
+{"input": "Boho Fringe Embroidered Wallet", "output": "Accessorize with bohemian flair using this embroidered wallet featuring fringe details, ideal for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace High-Low Dress", "output": "Step into timeless elegance with this high-low dress adorned with lace, perfect for special occasions from weddings to garden parties."}
+{"input": "Retro Print Peplum Blouse", "output": "Channel retro vibes with this peplum blouse adorned with a bold print, ideal for adding a playful twist to your summer wardrobe."}
+{"input": "Tropical Print Drawstring Shorts", "output": "Stay cool and chic in these drawstring shorts adorned with a tropical print, perfect for beach vacations or summer outings."}
+{"input": "Boho Fringe Embellished Anklet", "output": "Accessorize with bohemian flair using this embellished anklet featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Sleeveless Blouse", "output": "Exude vintage charm in this sleeveless blouse adorned with lace, perfect for adding a touch of romance to any outfit."}
+{"input": "Retro Print Tie-Front Crop Top", "output": "Add a retro twist to your wardrobe with this tie-front crop top featuring a bold print, perfect for summer picnics or casual outings."}
+{"input": "Tropical Print Fringed Poncho", "output": "Layer up in tropical style with this fringed poncho adorned with a vibrant print, perfect for beachside brunches or summer festivals."}
+{"input": "Boho Fringe Embroidered Clutch", "output": "Accessorize with bohemian flair using this embroidered clutch featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Vintage Lace Crochet Dress", "output": "Radiate vintage elegance in this crochet dress adorned with lace, perfect for special occasions from weddings to garden parties."}
+{"input": "Retro Print Ruffle Hem Dress", "output": "Channel retro vibes with this ruffle hem dress adorned with a bold print, ideal for adding a playful twist to your summer wardrobe."}
+{"input": "Tropical Print Bandeau Top", "output": "Stay chic and tropical in this bandeau top adorned with a vibrant print, ideal for beachside adventures or summer festivals."}
+{"input": "Boho Fringe Embellished Necklace", "output": "Accessorize with bohemian flair using this embellished necklace featuring fringe details, perfect for adding a touch of whimsy to your festival or casual ensemble."}
+{"input": "Flowy Tank Top", "output": "Perfect for layering under a kimono or staying cool on a hot day. Ideal for Casual and Beaches."}
+{"input": "Button-Down Linen Shirt (Floral)", "output": "Adds a touch of femininity and style to any outfit. Ideal for Casual and Everyday Wear."}
+{"input": "Graphic Tee (Band)", "output": "Show off your love for your favorite band with this casual and comfortable tee. Ideal for Casual and Everyday Wear."}
+{"input": "Embroidered Crop Top (Paisley)", "output": "Combines trendy style with a touch of bohemian flair. Ideal for Casual and Festivals."}
